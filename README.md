@@ -28,6 +28,10 @@ Before moving to the set up steps, ensure you can use docker-compose commands.
 
    docker-compose up
 
+3. Access app
+
+   http://localhost:8000/
+
 ## Running the tests
 
 1. Build Docker Image
